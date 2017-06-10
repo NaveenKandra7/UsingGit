@@ -1,4 +1,5 @@
 This project is to understand the usage of Git and Github
-Changed now after pulling
-Changing after creating two more files
+
+This branch is used to for understanding the usage of RestFul API's
+
 # UsingGit
