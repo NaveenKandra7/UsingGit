@@ -30,4 +30,4 @@ class FCoE_Helper():
 		self.sw.expect([pexpect.TIMEOUT, '#'])
 		
 fh = FCoE_Helper()
-fh.ConnectToSwitch(ip='10.127.125.24', sw_name = 'MDSNG')
+fh.ConnectToSwitch(ip=<IP>, sw_name = 'MDSNG')
